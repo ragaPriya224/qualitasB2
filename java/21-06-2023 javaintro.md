@@ -1,4 +1,4 @@
-installation: https://www.youtube.com/watch?v=AEZBLnGZyew&t=120s
+**installation**: https://www.youtube.com/watch?v=AEZBLnGZyew&t=120s
 
 just see, don't mug anything: http://helloworldcollection.de/
 
@@ -48,7 +48,7 @@ JAVA primitive types: https://www.youtube.com/watch?v=Rilk5TayNbI&list=PLrKBFf87
 
 
 
-TASKS:
+**TASKS**:
 
 do initial setup
 
@@ -62,5 +62,5 @@ create a java project and create a java class and then print your name in that c
 
 ![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/53976234-d065-4f4d-8239-e3eb81b3c770)
 
-TEAM, TODAY'S CODE UPLOADED HERE: https://github.com/ragaPriya224/qualitasB3/tree/master/java/QualitasBatchJavaDemo/src/demo
+**TEAM, TODAY'S CODE UPLOADED HERE**: https://github.com/ragaPriya224/qualitasB3/tree/master/java/QualitasBatchJavaDemo/src/demo
 
