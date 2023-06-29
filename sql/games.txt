@@ -1,0 +1,5 @@
+visit: https://www.w3schools.com/sql/default.asp
+
+
+play game: https://sql-island.informatik.uni-kl.de/
+Change language manually to english
