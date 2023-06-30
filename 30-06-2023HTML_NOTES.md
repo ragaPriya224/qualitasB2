@@ -55,4 +55,29 @@ Tables
    
    body ->tr,td  
       
-    
+  HTML forms 
+
+
+don't memorise everything.. 
+
+just see the syntax..and practice it.you'll get used to it..
+
+https://www.w3schools.com/html/html_forms.asp
+
+https://www.w3schools.com/html/html_form_elements.asp
+
+https://www.w3schools.com/html/html_form_input_types.asp
+
+https://www.w3schools.com/html/html_form_attributes.asp
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/input_types_html_2page.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML5%20Semantic%20Elements.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML_Basic_Tags.pdf
+
+https://github.com/ragaPriya224/b2_qualitas/blob/master/HTML_Input%20type.pdf
+
+
+
+  
