@@ -1,0 +1,30 @@
+/* h1{
+    color:red;
+} */
+body{
+    background-color: lightblue !important;
+    margin-left: 40px;
+}
+
+#tab_1,#para1{
+    color:brown;
+}
+
+
+.introColor{
+    font-style: italic;
+}
+
+#tbox1{
+    width:400px;
+    height:40px;
+}
+
+#txtArea1{
+    width:100px;
+    height:40px;
+}
+
+body{
+    background-color: darkgreen;
+}
