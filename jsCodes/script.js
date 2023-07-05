@@ -1,4 +1,28 @@
 console.log('js works');
+// // alert("I am an alert box!");
+// let x = 3;
+// if(x < 0){
+//   alert("negative");
+// }else{
+//   alert("positive");
+// }
+
+// //confirm
+// c = confirm("do you wanna continue");
+// if(c){
+//   alert("welcome");
+// }else{
+//   alert("thank you");
+// }
+
+// -----prompt
+// p = prompt("enter your name","spidy");
+// if(p == "spidy"){
+//   alert("welcome spidy");
+// }else{
+//   alert("welcome new user");
+// }
+
 
 var a = 10;
 console.log(typeof(a));
@@ -48,3 +72,9 @@ function addition(n){
 
 var output = addition(5);
 console.log("output of adition is:" +output);
+
+function buttonFunction(){
+  // alert("button is clicked");
+ var result =  document.getElementById("id_1").value;
+ document.getElementById("id_2").value= result;
+}
