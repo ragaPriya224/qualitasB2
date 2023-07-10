@@ -68,29 +68,25 @@ https://www.youtube.com/watch?v=GtsoUtGXu4Q
 ![image](https://user-images.githubusercontent.com/90038032/236411367-60446953-d910-4d34-a67e-20608e4618d7.png)
 
 --------------------------------------------------------------------------------
-Exception:
 
-In most cases, exceptions are caused by our program,  and these are recoverable 
-Eg:
+Throwable class -> root for java exception hierarchy
 
-London 
+EXCEPTION:
 
-local file ->
+in most cases, exception are caused by our program and these are recoverable
 
+Eg: read data from a remote file @ london file @runtime ,if file not there, file not found exception suppose file not found exception, then
 
-try{
-// read data from a remote file @london file 
-} catch(filenotfoundexception e ){
-// use local file and continue 
-}
-
+we can provide a local file and we can continue the program normally
 
 ERROR:
-In most cases, errors are caused not  by our program,  and these are nonrecoverable 
 
-out of memory error
+caused due to lack of resources -- Eg: out of memory error mostly not caused by our programs, these are non recoverable
 
-types of exception:
+EXCEPTION TYPES:
 
-1. checked exception
-2. unchecked exception 
+CHECKED EXCEPTION:exceptions that are checked by compiler for smooth execution of program @ runtime Eg: filenotfound exception, interrupted 
+
+exception
+
+UNCHECKED EXCEPTION: exceptions that are not checked by compiler @runttime Eg: arithmetic exception
