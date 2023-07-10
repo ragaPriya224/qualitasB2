@@ -90,3 +90,22 @@ CHECKED EXCEPTION:exceptions that are checked by compiler for smooth execution o
 exception
 
 UNCHECKED EXCEPTION: exceptions that are not checked by compiler @runttime Eg: arithmetic exception
+
+------------------------------------------------------------
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/03fd8ac2-9d67-4c5b-b032-2c76a17b6882)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/1080e14b-8861-4502-999c-cc149a864b46)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/33f8d94e-0789-4f0b-89bc-15f255992eae)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/b899607c-1b3f-422c-a38c-06d821e00fde)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/d360f104-b723-4882-a252-d41413f1c367)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/0dfe222a-fa98-46b2-886e-58d19d627a4a)
+
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/71092269-516a-47b8-8865-cd9da9ea7140)
+
+![image](https://github.com/ragaPriya224/qualitasB3/assets/90038032/f5aafa71-b243-43b2-bc50-309cea7d3689)
