@@ -13,7 +13,6 @@ public class StringDemo {
 		System.out.println(name.indexOf("l"));
 		System.out.println(name.lastIndexOf("l"));
 		System.out.println(name.concat("hello"));
-		//	System.out.println(name.join("h", " "));
 		String[] output = name.split("e");
 		for (String data : output) 
 		{ 
