@@ -2,8 +2,12 @@ package com.qualitas.qualitasPractice.service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.qualitas.qualitasPractice.model.Topic;
@@ -42,6 +46,21 @@ public class TopicService {
 //		it checks id present or not
 //		id present -> update record
 //		id not present -> add record
+	}
+	public Page<Topic> getProductsByPage(Optional<Integer> pageParam, Optional<String> sortBy) {
+//		int page, int size, Direction direction, String... properties
+		return	topicRepository.findAll(
+				PageRequest.of(
+						pageParam.orElse(0),  //page number
+						5, //3 records per page
+				Direction.DESC, //Direction
+				sortBy.orElse("id"))); // sort based on column
+	}
+	
+	public List<Topic> searchProducts(String query) {
+		List<Topic> output = topicRepository.searchTopic(query);
+		System.out.println("output"+output);
+		return output;
 	}
 
 }
