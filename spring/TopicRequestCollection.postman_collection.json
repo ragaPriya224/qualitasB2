@@ -127,6 +127,61 @@
 				"description": "deleting a particular record"
 			},
 			"response": []
+		},
+		{
+			"name": "pagination and sorting",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/v1/topics/page?pageNo=1&sort=description",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"v1",
+						"topics",
+						"page"
+					],
+					"query": [
+						{
+							"key": "pageNo",
+							"value": "1"
+						},
+						{
+							"key": "sort",
+							"value": "description"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "search",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/v1/search?query=beginner",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"v1",
+						"search"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "beginner"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
