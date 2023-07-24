@@ -1,5 +1,7 @@
+can visit link: https://www.youtube.com/watch?v=pTec1e8oyc8
 
 Node js -> search in google and download
+
 Angular cli -> npm install -g@angular/cli
 
 Check version of node and npm, to cross verify 
