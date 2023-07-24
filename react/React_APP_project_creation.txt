@@ -1,0 +1,6 @@
+REACT COMMANDS:
+
+1. check node version -> node -v
+2.create react app  -> npx create-react-app contact-app
+3.cd .\contact-app\
+4.Npm start => start app
