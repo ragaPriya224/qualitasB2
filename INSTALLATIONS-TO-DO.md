@@ -12,5 +12,7 @@ maven : https://www.youtube.com/watch?v=YTvlb6eny_0
 
 postman : search google and download
 
+git: search google and download
+
 FOR BASIC JAVA UNDERSTANDING: https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2&index=1
 IN THE ABOVE VIDEO, IGNORE 22, 51-57
