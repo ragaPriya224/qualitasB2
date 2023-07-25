@@ -4,6 +4,7 @@ public class DataTypeDemo {
 
 	public static void main(String[] args) {
 //	syntax:	type variableName = value;
+		
 		int choclate = 10;
 //		int -> data type
 //		choclate -> variable name
